@@ -1,0 +1,421 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.17)  12 DEC 2020 11:01
+entering extended mode
+**./ProyectoUnidad.tex
+(ProyectoUnidad.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(D:\MikTex\tex/latex/elsarticle\elsarticle.cls
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen138
+(D:\MikTex\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(D:\MikTex\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(D:\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\MikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\c@tnote=\count183
+\c@fnote=\count184
+\c@cnote=\count185
+\c@ead=\count186
+\c@author=\count187
+\@eadauthor=\toks16
+\c@affn=\count188
+\absbox=\box47
+\elsarticlehighlightsbox=\box48
+\elsarticlegrabsbox=\box49
+\keybox=\box50
+\Columnwidth=\dimen142
+\space@left=\dimen143
+\els@boxa=\box51
+\els@boxb=\box52
+\leftMargin=\dimen144
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (ProyectoUnidad.spl)
+(D:\MikTex\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count189
+)
+\splwrite=\write3
+\openout3 = `ProyectoUnidad.spl'.
+
+\appnamewidth=\dimen145
+) (D:\MikTex\tex/generic/babel\babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
+(D:\MikTex\tex/generic/babel\babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen146
+\l@babelnohyphens=\language79
+
+(D:\MikTex\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MikTex\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\MikTex\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count192
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\MikTex\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MikTex\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MikTex\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count193
+\output=\toks20
+\linenoprevgraf=\count194
+\linenumbersep=\dimen147
+\linenumberwidth=\dimen148
+\c@linenumber=\count195
+\c@pagewiselinenumber=\count196
+\c@LN@truepage=\count197
+\c@internallinenumber=\count198
+\c@internallinenumbers=\count199
+\quotelinenumbersep=\dimen149
+\bframerule=\dimen150
+\bframesep=\dimen151
+\bframebox=\box53
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(D:\MikTex\tex/latex/abstract\abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip53
+\absleftindent=\skip54
+\absrightindent=\skip55
+\absparindent=\skip56
+\absparsep=\skip57
+)
+(D:\MikTex\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (D:\MikTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count266
+\l__pdf_internal_box=\box54
+) (ProyectoUnidad.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `ProyectoUnidad.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+(D:\MikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen152
+\scratchbox=\box55
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen153
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks24
+) (D:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+
+
+(D:\MikTex\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+
+ (D:\MikTex\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+
+ []
+
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/Risther/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+Overfull \hbox (4.47382pt too wide) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/12 Mejorar el codi-go fuen-te el pro-gra-ma "Ve-te-ri-na-ria PE
+T'S PLA-NETusan-
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+[4]
+<./imagen/cronograma.png, id=21, 855.195pt x 175.40532pt>
+File: ./imagen/cronograma.png Graphic file (type png)
+<use ./imagen/cronograma.png>
+Package pdftex.def Info: ./imagen/cronograma.png  used on input line 164.
+(pdftex.def)             Requested size: 426.79134pt x 87.53648pt.
+
+Overfull \hbox (54.41615pt too wide) in paragraph at lines 164--165
+[][] 
+ []
+
+[5] [6 <./imagen/cronograma.png>]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 	\begin{center}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./imagen/10.jpeg, id=30, 1146.2825pt x 543.02875pt>
+File: ./imagen/10.jpeg Graphic file (type jpg)
+<use ./imagen/10.jpeg>
+Package pdftex.def Info: ./imagen/10.jpeg  used on input line 191.
+(pdftex.def)             Requested size: 284.52756pt x 134.78738pt.
+<./imagen/2.jpeg, id=31, 954.56625pt x 359.3425pt>
+File: ./imagen/2.jpeg Graphic file (type jpg)
+<use ./imagen/2.jpeg>
+Package pdftex.def Info: ./imagen/2.jpeg  used on input line 195.
+(pdftex.def)             Requested size: 284.52756pt x 107.10722pt.
+<./imagen/3.jpeg, id=32, 959.585pt x 394.47375pt>
+File: ./imagen/3.jpeg Graphic file (type jpg)
+<use ./imagen/3.jpeg>
+Package pdftex.def Info: ./imagen/3.jpeg  used on input line 199.
+(pdftex.def)             Requested size: 284.52756pt x 116.96465pt.
+<./imagen/5.jpeg, id=33, 945.5325pt x 365.365pt>
+File: ./imagen/5.jpeg Graphic file (type jpg)
+<use ./imagen/5.jpeg>
+Package pdftex.def Info: ./imagen/5.jpeg  used on input line 204.
+(pdftex.def)             Requested size: 284.52756pt x 109.94484pt.
+[7 <./imagen/10.jpeg> <./imagen/2.jpeg> <./imagen/3.jpeg>]
+<./imagen/6.jpeg, id=38, 628.3475pt x 170.6375pt>
+File: ./imagen/6.jpeg Graphic file (type jpg)
+<use ./imagen/6.jpeg>
+Package pdftex.def Info: ./imagen/6.jpeg  used on input line 207.
+(pdftex.def)             Requested size: 284.52756pt x 77.26784pt.
+<./imagen/7.jpeg, id=39, 748.7975pt x 121.45375pt>
+File: ./imagen/7.jpeg Graphic file (type jpg)
+<use ./imagen/7.jpeg>
+Package pdftex.def Info: ./imagen/7.jpeg  used on input line 211.
+(pdftex.def)             Requested size: 284.52756pt x 46.14919pt.
+<./imagen/8.jpeg, id=40, 1086.0575pt x 625.33624pt>
+File: ./imagen/8.jpeg Graphic file (type jpg)
+<use ./imagen/8.jpeg>
+Package pdftex.def Info: ./imagen/8.jpeg  used on input line 215.
+(pdftex.def)             Requested size: 284.52756pt x 163.82402pt.
+ [8 <./imagen/5.jpeg> <./imagen/6.jpeg> <./imagen/7.jpeg>]
+<./imagen/9.jpeg, id=44, 750.805pt x 486.81876pt>
+File: ./imagen/9.jpeg Graphic file (type jpg)
+<use ./imagen/9.jpeg>
+Package pdftex.def Info: ./imagen/9.jpeg  used on input line 218.
+(pdftex.def)             Requested size: 284.52756pt x 184.48793pt.
+ [9 <./imagen/8.jpeg> <./imagen/9.jpeg>]
+<./imagen/3capas.png, id=48, 447.17062pt x 443.40656pt>
+File: ./imagen/3capas.png Graphic file (type png)
+<use ./imagen/3capas.png>
+Package pdftex.def Info: ./imagen/3capas.png  used on input line 238.
+(pdftex.def)             Requested size: 199.16928pt x 197.49458pt.
+<./imagen/arquitectura.jpeg, id=49, 517.935pt x 564.1075pt>
+File: ./imagen/arquitectura.jpeg Graphic file (type jpg)
+<use ./imagen/arquitectura.jpeg>
+Package pdftex.def Info: ./imagen/arquitectura.jpeg  used on input line 241.
+(pdftex.def)             Requested size: 199.16928pt x 216.92813pt.
+
+[10 <./imagen/3capas.png> <./imagen/arquitectura.jpeg>] [11]
+<./imagen/PU0.jpg, id=57, 1019.30812pt x 507.39563pt>
+File: ./imagen/PU0.jpg Graphic file (type jpg)
+<use ./imagen/PU0.jpg>
+Package pdftex.def Info: ./imagen/PU0.jpg  used on input line 277.
+(pdftex.def)             Requested size: 455.24408pt x 226.61488pt.
+
+Overfull \hbox (94.61877pt too wide) in paragraph at lines 277--278
+ [] 
+ []
+
+[12]
+<./imagen/PU1.jpg, id=61, 226.59656pt x 222.07968pt>
+File: ./imagen/PU1.jpg Graphic file (type jpg)
+<use ./imagen/PU1.jpg>
+Package pdftex.def Info: ./imagen/PU1.jpg  used on input line 281.
+(pdftex.def)             Requested size: 199.16928pt x 195.20029pt.
+<./imagen/PU2.jpg, id=62, 212.29312pt x 318.43968pt>
+File: ./imagen/PU2.jpg Graphic file (type jpg)
+<use ./imagen/PU2.jpg>
+Package pdftex.def Info: ./imagen/PU2.jpg  used on input line 285.
+(pdftex.def)             Requested size: 199.16928pt x 298.7697pt.
+ [13 <./imagen/PU0.jpg> <./imagen/PU1.jpg>]
+<./imagen/aceptacion.jpg, id=67, 473.51906pt x 198.7425pt>
+File: ./imagen/aceptacion.jpg Graphic file (type jpg)
+<use ./imagen/aceptacion.jpg>
+Package pdftex.def Info: ./imagen/aceptacion.jpg  used on input line 299.
+(pdftex.def)             Requested size: 199.16928pt x 83.59258pt.
+ [14 <./imagen/PU2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+<./imagen/pruebas.jpg, id=71, 348.55219pt x 116.68594pt>
+File: ./imagen/pruebas.jpg Graphic file (type jpg)
+<use ./imagen/pruebas.jpg>
+Package pdftex.def Info: ./imagen/pruebas.jpg  used on input line 313.
+(pdftex.def)             Requested size: 199.16928pt x 66.67725pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--327
+
+ []
+
+[15 <./imagen/aceptacion.jpg> <./imagen/pruebas.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 327--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+
+ []
+
+[16] (ProyectoUnidad.bbl)
+! Misplaced alignment tab character &.
+l.352 ...The art of software testing. John Wiley &
+                                                   Sons ed.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[17] (ProyectoUnidad.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4004 strings out of 479799
+ 53842 string characters out of 2886236
+ 340771 words of memory out of 3000000
+ 20943 multiletter control sequences out of 15000+200000
+ 543032 words of font info for 57 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 80i,5n,85p,819b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Risther\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
+crm1200.pk><D:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MikTex/font
+s/type1/public/amsfonts/cm/cmbxti10.pfb><D:/MikTex/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikTex/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTex/fonts/type1/public/amsfonts/c
+m/cmti12.pfb>
+Output written on ProyectoUnidad.pdf (17 pages, 1282035 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
